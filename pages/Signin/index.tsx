@@ -10,7 +10,7 @@ export const SignIn: React.FunctionComponent = () => {
         >
         <Container>
             <Content>
-                <Title>login</Title>
+                <Title>Login</Title>
                 <Input placeholder="Email" />
                 <Input placeholder="Senha" />
             </Content>
