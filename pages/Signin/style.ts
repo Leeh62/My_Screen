@@ -9,7 +9,7 @@ export const Content = styled.View`
     align-items: center;
     justify-content: center;
     width: 100%;
-    padding: 24px;
+    padding: 25px;
 `;
 export const Title = styled.Text`
     font-size: 18px;
